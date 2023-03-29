@@ -13,3 +13,8 @@ class Person:
         return f'person object called:{self.name]'
 
 ```
+
+#more notes1
+
+```class``` is a keyword in python to create class
+```__init__()``` is a base override 
